@@ -1,2 +1,2 @@
 # cerrate-la-sesion
-sos caballo
+sos caballo. Desde el laboratorio p1
